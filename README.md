@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey There! 😊
 
-<!--
-**getimad/getimad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Imad**, *a .NET Full Stack Developer.*
 
-Here are some ideas to get you started:
+I have been coding since 2021. The first thing I coded was a game called **[Guess My Number](https://github.com/getimad/guess-my-number)** using **Vanila JavaScript**, **HTML** and **CSS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A year later, I started getting into **C#**, because I enjoy making games using **Unity**.
+
+Nowadays, I’m interested in web development, including back-end, front-end, and testing technologies. I love to solve problems, develop skills, learn new things, and figure out how they work.
+
+<!-- My top skills -->
+<div>
+  <picture>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  </picture>
+</div>
