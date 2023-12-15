@@ -11,6 +11,6 @@ Nowadays, I’m interested in web development, including back-end, front-end, an
 <!-- My top skills -->
 <div>
   <picture>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react" />
   </picture>
 </div>
