@@ -13,6 +13,6 @@ Check out my **[LeetCode profile](https://leetcode.com/getimad)**.
 <!-- My top skills -->
 <div>
   <picture>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,react,tailwind" />
   </picture>
 </div>
