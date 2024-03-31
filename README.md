@@ -6,7 +6,7 @@ I have been coding since 2020. The first thing I coded was a game called **[Gues
 
 A year later, I started getting into **C#**, My journey includes solving **300+ LeetCode problems**, which has honed my problem-solving skills and attention to detail.
 
-I am currently exploring web development, with a particular focus on **ASP.NET Core**, **Blazor**, **React** and other tools that enhance my productivity and collaboration.
+Today, I'm all about **ASP.NET Core** and **React**, using these powerful tools to create web applications that are both scalable and beautiful.
 
 Check out my **[LeetCode profile](https://leetcode.com/getimad)**.
 
