@@ -8,7 +8,7 @@ A year later, I started getting into **C#**, My journey includes solving **300+ 
 
 Today, I'm all about **ASP.NET Core** and **React**, using these powerful tools to create web applications that are both scalable and beautiful.
 
-Check out my **[LeetCode profile](https://leetcode.com/getimad)**.
+Check out my **[portfolio](https://getimad.me/)**.
 
 <!-- My top skills -->
 <div>
