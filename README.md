@@ -13,6 +13,6 @@ Check out my **[portfolio](https://getimad.me/)**.
 <!-- My top skills -->
 <div>
   <picture>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,ts,nextjs,react,tailwind" />
   </picture>
 </div>
