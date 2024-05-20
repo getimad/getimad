@@ -1,6 +1,6 @@
 # Hey There! 😊
 
-**I'm Imad**, *a .NET Full-Stack Developer.*
+**I'm Imad**, *a Full-Stack Developer.*
 
 I have been coding since 2020. The first thing I coded was a game called **[Guess My Number](https://github.com/getimad/guess-my-number)** using **Vanila JavaScript**, **HTML** and **CSS**.
 
